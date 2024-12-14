@@ -1,0 +1,7 @@
+.weather{
+    width: 100%;
+    min-height: 28rem;
+    height: 45%;
+    background-color: #111224;
+    border-radius: 1rem;
+}
